@@ -1,0 +1,15 @@
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.AssemblyInfoInputs.cache
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.AssemblyInfo.cs
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.csproj.CoreCompileInputs.cache
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.sourcelink.json
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.exe
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.deps.json
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.runtimeconfig.json
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.dll
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.pdb
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.dll
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\refint\DesignPatternsLab.dll
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.pdb
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.genruntimeconfig.cache
+C:\Users\cstock\source\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\ref\DesignPatternsLab.dll
